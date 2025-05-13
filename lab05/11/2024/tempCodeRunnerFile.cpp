@@ -1,2 +1,1 @@
-x->prev=nullptr;
-        // x->next=nullptr;
+  frame.erase(frame.begin()+idx);
